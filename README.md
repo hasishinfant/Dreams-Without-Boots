@@ -215,17 +215,6 @@ This game explores that possibility.
 
 ---
 
-# 📷 Screenshots
-| Sacrifice |
-|-----------|
-| ![](file:///Users/hasishinfant/Desktop/Screenshot%202026-06-28%20at%2010.34.45%E2%80%AFAM.png) |
-
-| World Cup |
-|------------|
-| ![](file:///Users/hasishinfant/Desktop/Screenshot%202026-06-28%20at%2010.56.35%E2%80%AFAM.png) |
-
----
-
 # ⚠ Disclaimer
 
 Dreams Without Boots is a **fictional alternate-history experience** inspired by India's qualification and withdrawal from the 1950 FIFA World Cup.
