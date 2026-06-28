@@ -216,14 +216,13 @@ This game explores that possibility.
 ---
 
 # 📷 Screenshots
+| Sacrifice |
+|-----------|
+| ![](file:///Users/hasishinfant/Desktop/Screenshot%202026-06-28%20at%2010.34.45%E2%80%AFAM.png) |
 
-| Village | Sacrifice |
-|---------|-----------|
-| ![](assets/village.png) | ![](assets/family.png) |
-
-| Journey | World Cup |
-|---------|------------|
-| ![](assets/ship.png) | ![](assets/stadium.png) |
+| World Cup |
+|------------|
+| ![](file:///Users/hasishinfant/Desktop/Screenshot%202026-06-28%20at%2010.56.35%E2%80%AFAM.png) |
 
 ---
 
