@@ -6,9 +6,6 @@
 
 *A cinematic alternate-history football experience inspired by one of India's greatest sporting "What Ifs".*
 
-
-[🎥 Demo](#) • [🎮 Play Game](#) • [📖 Story](#)
-
 ---
 
 </div>
